@@ -1,1 +1,3 @@
-Readme file for notiification service
+Readme file for notification service
+
+Version 1.0
